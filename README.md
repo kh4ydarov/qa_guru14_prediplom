@@ -1,0 +1,1 @@
+# qa_guru14_prediplom

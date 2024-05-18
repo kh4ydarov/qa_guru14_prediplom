@@ -1,6 +1,6 @@
 import allure
 
-from selene import browser, have, command, be
+from selene import browser
 
 
 class ChangeLanguage:
